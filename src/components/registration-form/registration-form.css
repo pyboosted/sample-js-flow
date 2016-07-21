@@ -1,0 +1,7 @@
+.registration-form {
+    border: 1px solid black;
+}
+
+.registration-form__input {
+    border: 1px solid red;
+}
